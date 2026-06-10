@@ -40,7 +40,18 @@ SmartHire360
 
 ## Screenshots
 
-Screenshots will be added soon.
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Applications
+![Applications](screenshots/applications.png)
+
+### Resume Analyzer
+![Resume Analyzer](screenshots/resume-analyzer.png)
+
+### Job Match Analyzer
+![Job Match Analyzer](screenshots/job-match.png)
 
 ## Installation
 
